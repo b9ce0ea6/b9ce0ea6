@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @b9ce0ea6
-- 👀 I’m interested in powerShell and python
+- 👀 I’m interested in PowerShell, C# & python
